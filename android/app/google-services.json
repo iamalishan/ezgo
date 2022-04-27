@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342295510129",
+    "project_id": "newezgo-9afa5",
+    "storage_bucket": "newezgo-9afa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342295510129:android:4c1c3469c54c1289c9afd0",
+        "android_client_info": {
+          "package_name": "com.example.ez_go_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342295510129-op09m7silfglje3ku930t4s07gooqo8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmjTB4eU8tdy9WkIeydRssTkCA9MC-Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342295510129-op09m7silfglje3ku930t4s07gooqo8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

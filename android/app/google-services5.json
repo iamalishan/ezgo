@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "607676078739",
+    "project_id": "ezgo-607ca",
+    "storage_bucket": "ezgo-607ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607676078739:android:0456fb1ef0f3ec515b0b66",
+        "android_client_info": {
+          "package_name": "com.example.ez_go_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607676078739-81g0lv1th36aasn7dehl8qo9ta74k88q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ez_go_final",
+            "certificate_hash": "8f84cad1aac2d4c8899eee0a2a5b6da5f1947e6a"
+          }
+        },
+        {
+          "client_id": "607676078739-ktb8bf0750eh00s0l9p9763f5b4shnn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFI126oSGB1wuuaMlGgyG1oSEl8DyvWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607676078739-ktb8bf0750eh00s0l9p9763f5b4shnn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
